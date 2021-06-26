@@ -1,0 +1,8 @@
+title: FreeDOM
+description: A New Baseline for the Web
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
